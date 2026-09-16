@@ -40,7 +40,7 @@ landing-direitos-civis/
 - [LinkedIn](https://www.linkedin.com/in/gustavo-rubinho-9071b4353)
 - [GitHub](https://github.com/gustavorubinho)
 - [Instagram](https://www.instagram.com/gusttkebn)
-- E-mail: gustavorubinhomp3@gmail.com
+- E-mail: gsutavorubinhomp3@gmail.com
 
 ---
 

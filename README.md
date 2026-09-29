@@ -1,4 +1,4 @@
-# ⚖️ Direitos Civis — Landing Page
+# Direitos Civis — Landing Page
 
 Landing page desenvolvida como trabalho para o curso de **Administração — Jovem Aprendiz**, abordando o tema **Direitos Civis**: o que são, onde e como surgiram e em qual contexto histórico se consolidaram.
 

@@ -1,6 +1,11 @@
+<img width="611" height="113" alt="image" src="https://github.com/user-attachments/assets/df9b9fa8-4b5a-46d6-87f0-2354319d0820" />
+
 # Direitos Civis — Landing Page
 
 Landing page desenvolvida como trabalho para o curso de **Administração — Jovem Aprendiz**, abordando o tema **Direitos Civis**: o que são, onde e como surgiram e em qual contexto histórico se consolidaram.
+
+<img width="1439" height="810" alt="image" src="https://github.com/user-attachments/assets/0e60553a-d8d2-432d-9c01-ede6d8b2c81c" />
+
 
 ## Sobre o projeto
 
